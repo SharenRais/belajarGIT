@@ -8,11 +8,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GIT
-- git branch Tugas-git
-- git checkout Tugas-git
-- touch Tugas-git.txt
-- git add Tugas-git.txt
-- git commit -m "Tugas-git"
-- git checkout main
-- git merge Tugas-git
-- git push origin main
+1. git branch Tugas-git
+2. git checkout Tugas-git
+3. touch Tugas-git.txt
+4. git add Tugas-git.txt
+5. git commit -m "Tugas-git"
+6. git checkout main
+7. git merge Tugas-git
+8. git push origin main
